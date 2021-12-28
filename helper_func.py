@@ -1,6 +1,6 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Recode by @Gdusvausbdh
+# t.me/affiliatesidn & t.me/LAYANGANPUTUSOFFICIAL
 
 import asyncio
 import base64
